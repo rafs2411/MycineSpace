@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detalhe_ja_assisti">&#10003; Já assisti!</string>
+    <string name="detalhe_quero_assistir">+ Quero assistir</string>
+    <string name="detalhe_direcao">Direção:</string>
+    <string name="detalhe_roteiristas">Roteiristas:</string>
+    <string name="detalhe_estrelas">Estrelas:</string>
+    <string name="detalhe_trailer">Trailer</string>
+    <string name="detalhe_trailer_desc">Assistir ao trailer</string>
+    <string name="detalhe_trailer_dica">Toque no play para assistir ao trailer</string>
+    <string name="detalhe_abrir_youtube">Não carregou? Abrir no YouTube</string>
+    <string name="detalhe_sua_avaliacao">Sua avaliação</string>
+    <string name="detalhe_comentario_hint">Escreva o que você achou do filme...</string>
+    <string name="detalhe_salvar">Salvar</string>
+    <string name="detalhe_salvo">Avaliação salva!</string>
+    <string name="detalhe_toque_editar">Toque para editar</string>
+    <string name="detalhe_excluir">Excluir</string>
+    <string name="detalhe_excluido">Avaliação excluída</string>
+    <string name="detalhe_avaliacao_vazia">Dê uma nota ou escreva um comentário</string>
+    <string name="detalhe_sem_comentario">Sem comentário</string>
+    <string name="detalhe_voltar">Voltar</string>
+    <string name="detalhe_play">&#9654;</string>
+    <string name="detalhe_seta_voltar">&#8249;</string>
+</resources>

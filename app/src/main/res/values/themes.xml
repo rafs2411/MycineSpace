@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.MyCineSpace" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_app</item>
+        <item name="android:navigationBarColor">@color/bg_app</item>
+        <item name="android:windowBackground">@color/bg_app</item>
+    </style>
+
+    <style name="Theme.MyCineSpace" parent="Base.Theme.MyCineSpace" />
+</resources>
