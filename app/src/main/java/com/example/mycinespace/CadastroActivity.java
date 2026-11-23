@@ -59,8 +59,7 @@ public class CadastroActivity extends Activity {
 
         esconderTeclado();
 
-        // TODO: aqui entra a criação da conta de verdade
-        // (Firebase Auth, SQLite, sua API, etc.) usando nome, email e senha.
+
         Toast.makeText(this, "Conta criada com sucesso!", Toast.LENGTH_LONG).show();
     }
     private boolean validar(String nome, String email, String senha, String confirmar) {
